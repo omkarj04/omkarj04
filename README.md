@@ -1,8 +1,8 @@
-<h1 align="left">👋 Hello World!, I’m Omkar, A Data Analyst, Data Scientist, and a Data Engineer 👋🏼.</h1>
+<h1 align="left">👋🏼 Hello World!, I’m Omkar, A Data Analyst, Data Scientist, and a Data Engineer 👋🏼.</h1>
 
 ###
 
-<h2 align="left">I am currently working on projects to build my skills and gain experience.<br><br>👀 I’m interested in playing football and having a good time analysing data.<br><br>🌱 I’m currently learning advanced database management and deepening my knowledge in data analytics.<br><br>💻 My technical skills include proficiency in Python, R, Tableau, SQL, MySQL, SSMS, Power BI, and other data analysis tools.<br><br>📫 You can reach me by email at ojadhav410@gmail.com.</h2>
+<h2 align="left">👋🏼 I am currently working on projects to build my skills and gain experience.<br><br>👀 I’m interested in playing football and having a good time analysing data.<br><br>🌱 I’m currently learning advanced database management and deepening my knowledge in data analytics.<br><br>💻 My technical skills include proficiency in Python, R, Tableau, SQL, MySQL, SSMS, Power BI, and other data analysis tools.<br><br>📫 You can reach me by email at ojadhav410@gmail.com.</h2>
 
 ###
 
